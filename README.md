@@ -27,3 +27,7 @@ Abra o arquivo `index.html` no navegador.
 ## Autor
 
 [Felipe Santos Belphman](https://github.com/felipesbelphman-web)
+
+## Ver projeto
+
+[Abra a versão publicada](https://felipesbelphman-web.github.io/four-card-feature-section/)
